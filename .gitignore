@@ -1,0 +1,5 @@
+data/
+*.ipynb_checkpoints/
+tf-venv/
+__pycache__/
+*.pyc
