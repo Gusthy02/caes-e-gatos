@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC905&height=180&section=header&animation=twinkling"/>
+
 # 🐶🐱 Classificador de Imagens: Cães vs Gatos
 
 Este projeto utiliza **Visão Computacional e Deep Learning com Keras/TensorFlow** para classificar imagens como **gato** ou **cachorro**. Além do modelo treinado, a aplicação conta com uma interface gráfica em Python que permite ao usuário carregar uma imagem e obter o resultado da classificação de forma visual e intuitiva.
